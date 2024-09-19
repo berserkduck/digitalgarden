@@ -4,9 +4,6 @@
 
 # 数据结构
 [[Pandas/数据结构/Pandas数据结构\|Pandas数据结构]]
-[[Pandas/数据结构/DataFrame\|DataFrame]]
-[[Pandas/数据结构/Series\|Series]]
-[[Pandas/数据结构/n维数组\|n维数组]]
 # DataFrame操作
 [[Pandas/DataFrame操作/增加列\|增加列]]
 [[Pandas/DataFrame操作/增加行\|增加行]]
@@ -16,7 +13,7 @@
 [[Pandas/DataFrame操作/去重\|去重]]
 [[Pandas/DataFrame操作/转置\|转置]]
 [[Pandas/DataFrame操作/apply\|apply]]
-[[Pandas/DataFrame操作/索引与列名\|Pandas/DataFrame操作/索引与列名]]
+[[Pandas/Series操作/索引与列名\|索引与列名]]
 # Series操作
 [[Pandas/DataFrame操作/apply\|apply]]
 # 文件操作

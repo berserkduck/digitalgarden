@@ -2,30 +2,6 @@
 {"dg-publish":true,"permalink":"/Pandas/数据结构/Series/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Pandas数据结构
-
-</div>
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-## Text Elements
-DataFrame 
-行索引 
-列索引或字段 
-Series 
-
-
-</div></div>
-
 # Series对象
 Series对象（简称Series）可以理解成“一列数据”，是一种类似于一维数组的对象，由两部分组成：
 1. index：行索引，默认为0~N-1
@@ -38,11 +14,6 @@ Series对象（简称Series）可以理解成“一列数据”，是一种类�
 - **操作**：数学运算、统计分析、字符串处理
 - **缺失数据**：Series可以包含缺失数据，Pandas 使用NaN（Not a Number）来表示缺失或无值
 # 构造方法
-使用Pandas要导入Pandas包，pd是标准别名
-```python
-import pandas as pd
-```
-
 ```python
 pandas.Series(
 	data=None, 

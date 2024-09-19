@@ -2,30 +2,6 @@
 {"dg-publish":true,"permalink":"/Pandas/数据结构/DataFrame/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Pandas数据结构
-
-</div>
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-## Text Elements
-DataFrame 
-行索引 
-列索引或字段 
-Series 
-
-
-</div></div>
-
 # DataFrame对象
 DataFrame对象（简称DataFrame），可以理解成一张二维表，包含一组有序的列（字段），每列可以存储不同类型的数据
 DataFrame既有行索引又有列索引，类似于Excel中的行号和列标
